@@ -23,11 +23,11 @@ $(window).load(function() {
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —  Independent programmer,Knows JAVA,PYTHON,C,Arduino,Basic Ethical hacking).'
+            text: ' —  Independent programmer,Knows JAVA,PYTHON,C,Arduino'
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —   Loves Tech-Gadgets more than Humans / Coz Gadgets make life easy'
+            text: ' —   Loves Tech-Gadgets more than Humans Coz Gadgets make life easy'
         });
         MESSAGES.push({
             delay: 4800,
