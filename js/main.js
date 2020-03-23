@@ -15,19 +15,19 @@ $(window).load(function() {
 
         MESSAGES.push({
             delay: 1000,
-            text: ' —  Android Application Developer/Web Designer/ Photoshop , AI & XD ;'
+            text: ' —  Works on Android application Development/Web Designer/ Photoshop , AI ;'
         });
         MESSAGES.push({
             delay: 1800,
-            text: ' —  IOT devices and electronics lover;'
+            text: ' —  Intrested in IOT devices and electronic Tech-Gadgets ;'
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —  Independent programmer,Knows JAVA,PYTHON,C,Arduino'
+            text: ' — Code learner,Flexible with JAVA,PYTHON,C,Arduino'
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —   Loves Tech-Gadgets more than Humans Coz Gadgets make life easy'
+            text: ' — Gadgets are good enough to make life easy'
         });
         MESSAGES.push({
             delay: 4800,
